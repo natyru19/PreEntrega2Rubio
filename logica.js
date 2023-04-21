@@ -4,7 +4,7 @@ let contenedor = document.getElementById("misProds");
 let finalizarBtn = document.getElementById("finalizar");
 
 let tituloPrinc = document.getElementById('tituloPrinc');
-tituloPrinc.style.background = 'skyblue';
+tituloPrinc.style.background = 'skyblue'; 
 
 let tituloSec = document.getElementById('tituloSec');
 tituloSec.style.background = 'skyblue';
